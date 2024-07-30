@@ -1,0 +1,126 @@
+*{
+    padding-left: 50px;
+}
+
+.E-VISA
+{
+    cursor: pointer;
+    margin-left: -15px;
+    color: #41b393;
+    height: auto;
+    display: block;
+    font-size: 34px;
+    background: transparent;
+    padding: 30px 20px 25px 20px;
+    border-radius: 0 0px 5px 5px;
+    font-weight: 700;
+    transition: all 0.3s;
+    font-family: helvetica, arial, sans-serif;
+    float: left;
+    line-height: 20px;
+    text-decoration: inherit;
+    cursor: pointer;
+    --tw-border-spacing-x: 0;
+    --tw-border-spacing-y: 0;
+    --tw-translate-x: 0;
+    --tw-translate-y: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+    --tw-pan-x: ;
+    --tw-pan-y: ;
+    --tw-pinch-zoom: ;
+    --tw-scroll-snap-strictness: proximity;
+    --tw-gradient-from-position: ;
+    --tw-gradient-via-position: ;
+    --tw-gradient-to-position: ;
+    --tw-ordinal: ;
+    --tw-slashed-zero: ;
+    --tw-numeric-figure: ;
+    --tw-numeric-spacing: ;
+    --tw-numeric-fraction: ;
+    --tw-ring-inset: ;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgb(59 130 246 / 0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+    --tw-shadow: 0 0 #0000;
+    --tw-shadow-colored: 0 0 #0000;
+    --tw-blur: ;
+    --tw-brightness: ;
+    --tw-contrast: ;
+    --tw-grayscale: ;
+    --tw-hue-rotate: ;
+    --tw-invert: ;
+    --tw-saturate: ;
+    --tw-sepia: ;
+    --tw-drop-shadow: ;
+    --tw-backdrop-blur: ;
+    --tw-backdrop-brightness: ;
+    --tw-backdrop-contrast: ;
+    --tw-backdrop-grayscale: ;
+    --tw-backdrop-hue-rotate: ;
+    --tw-backdrop-invert: ;
+    --tw-backdrop-opacity: ;
+    --tw-backdrop-saturate: ;
+    --tw-backdrop-sepia: ;
+    --tw-contain-size: ;
+    --tw-contain-layout: ;
+    --tw-contain-paint: ;
+    --tw-contain-style: ;
+    
+}
+
+.navbar-brand-exp
+{
+    color: #666a6c;
+    font-size: 12px;
+    line-height: 0.5;
+    margin: 0;
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: #e5e7eb;
+    padding-top: 30px;
+}
+.navbar-brand-expp
+{
+    color: #666a6c;
+    font-size: 12px;
+    line-height: 0.5;
+    margin: 0;
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: #e5e7eb;
+    padding-top: 10px;
+}
+
+
+.nav navbar-nav navbar-rightav
+{
+    cursor: pointer;
+
+
+
+}
+
+
+
+
+.World-Map
+{
+
+    position: relative;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+
+}
+
+
